@@ -1,6 +1,6 @@
 # script  
 脚本下载链接为 sc.kmg.fan/脚本名  
-如 curl sc.kmg.fan/proxy.fan  
+如 curl sc.kmg.fan/ssl.sh  
 这里是AI脚本库以及个人收藏脚本，以下是各脚本简介:  
 ssl.sh:部署ssl证书或者反向代理的豆包脚本  
 docker.sh
